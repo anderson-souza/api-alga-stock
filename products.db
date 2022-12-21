@@ -1,0 +1,21 @@
+{"name":"Cookie","price":1.59,"stock":20,"_id":"IyBSnN0VzJXz5IN4","createdAt":{"$$date":1670073966918},"updatedAt":{"$$date":1670701860842}}
+{"name":"Detergent","price":1.75,"stock":50,"_id":"J6Id7vhvwJ9EpquR","createdAt":{"$$date":1670073966918},"updatedAt":{"$$date":1670702430703}}
+{"name":"teste","price":1,"stock":1,"_id":"Us9uAy6o1tuKkgqR","createdAt":{"$$date":1670077003691},"updatedAt":{"$$date":1670077003691}}
+{"name":"Teste 123","price":10,"stock":5,"_id":"wmMC1U5sO6mit0uG","createdAt":{"$$date":1670981574075},"updatedAt":{"$$date":1670981574075}}
+{"$$deleted":true,"_id":"wmMC1U5sO6mit0uG"}
+{"$$deleted":true,"_id":"Us9uAy6o1tuKkgqR"}
+{"name":"Milk","price":2,"stock":10,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062023021}}
+{"name":"Rice","price":5.55,"stock":3,"_id":"9gbUrIBsn5UdZTOh","createdAt":{"$$date":1671062082055},"updatedAt":{"$$date":1671062082055}}
+{"name":"Milk","price":2,"stock":10,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062137005}}
+{"name":"Milk","price":2,"stock":10,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062138989}}
+{"name":"Milk","price":2,"stock":11,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062147408}}
+{"name":"Milk","price":2,"stock":11,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062210542}}
+{"name":"Milk","price":2,"stock":11,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671062314512}}
+{"name":"Beans","price":0.99,"stock":32,"_id":"uwtLrCSYRLr6c9YU","createdAt":{"$$date":1671062659514},"updatedAt":{"$$date":1671062659514}}
+{"name":"Beans","price":0.99,"stock":32,"_id":"uwtLrCSYRLr6c9YU","createdAt":{"$$date":1671062659514},"updatedAt":{"$$date":1671062674917}}
+{"$$deleted":true,"_id":"uwtLrCSYRLr6c9YU"}
+{"name":"tesste","price":123,"stock":11,"_id":"WA2jLX6DXpqZZnyp","createdAt":{"$$date":1671064164854},"updatedAt":{"$$date":1671064164854}}
+{"name":"Macarrão","price":5.89,"stock":29,"_id":"YMRoliGrIHCoRR8N","createdAt":{"$$date":1671066569447},"updatedAt":{"$$date":1671066569447}}
+{"name":"Detergente","price":1.75,"stock":50,"_id":"J6Id7vhvwJ9EpquR","createdAt":{"$$date":1670073966918},"updatedAt":{"$$date":1671066646877}}
+{"name":"Sabonete","price":0.99,"stock":9,"_id":"9j65Z2QGCHvMcWPa","createdAt":{"$$date":1671066689718},"updatedAt":{"$$date":1671066689718}}
+{"name":"Milk","price":2.1,"stock":11,"_id":"o424PDKszebkampt","createdAt":{"$$date":1671062023021},"updatedAt":{"$$date":1671066724488}}
